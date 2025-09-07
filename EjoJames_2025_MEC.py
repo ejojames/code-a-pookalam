@@ -1,7 +1,7 @@
 import turtle,math
 
 '''
-uncomment the next line to skip turtle drwaing on canvas
+uncomment the next line to skip turtle drawing on canvas
 '''
 #turtle.tracer(0) 
 
@@ -278,4 +278,5 @@ flower(x=0, y=0, petals=10, radius=20, angle=60,
 
 
 turtle.home()
+
 turtle.done()
